@@ -1,4 +1,5 @@
-x="hello \n"
-y=int(input(" Enter the number:"))
-i=x*y
-print (i)
+def main():
+    x=int(input(""))
+    print("hello" * x)
+if __name__ == '__main__':
+    main()
