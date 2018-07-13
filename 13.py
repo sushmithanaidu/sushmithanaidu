@@ -1,4 +1,4 @@
-y=int(input("Enter number: "))
+y=int(input())
 m=0
 for i in range(2,y//2+1):
     if(y%i==0):
